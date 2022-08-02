@@ -1,0 +1,134 @@
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csprojAssemblyReference.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfoInputs.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfo.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CoreCompileInputs.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorAssemblyInfo.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorAssemblyInfo.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.TagHelpers.input.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.TagHelpers.output.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorCoreGenerate.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_BasicLayout.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorTargetAssemblyInfo.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorTargetAssemblyInfo.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.dll
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.pdb
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\bin\Debug\netcoreapp2.1\libman.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.deps.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.dev.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.dll
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.pdb
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.Views.dll
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.Views.pdb
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.Views.pdb
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.genruntimeconfig.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CopyComplete
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\libman.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.deps.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.dev.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.dll
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.pdb
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.Views.dll
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.Views.pdb
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csprojAssemblyReference.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfoInputs.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfo.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CoreCompileInputs.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorAssemblyInfo.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorAssemblyInfo.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.TagHelpers.input.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.TagHelpers.output.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorCoreGenerate.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_BasicLayout.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorTargetAssemblyInfo.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorTargetAssemblyInfo.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.Views.pdb
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.dll
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.pdb
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.genruntimeconfig.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CopyComplete
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.deps.json
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.json
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.dev.json
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.dll
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.pdb
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.Views.dll
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.Views.pdb
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csprojAssemblyReference.cache
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfo.cs
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorAssemblyInfo.cache
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorAssemblyInfo.cs
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.TagHelpers.input.cache
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.TagHelpers.output.cache
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorCoreGenerate.cache
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.cshtml.g.cs
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.cshtml.g.cs
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.cshtml.g.cs
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.cshtml.g.cs
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_BasicLayout.cshtml.g.cs
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorTargetAssemblyInfo.cache
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorTargetAssemblyInfo.cs
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.Views.pdb
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.dll
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.pdb
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.genruntimeconfig.cache
+C:\Users\Teresa\Desktop\Assignment1\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CopyComplete
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\bin\Debug\netcoreapp2.1\libman.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.deps.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.runtimeconfig.dev.json
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.dll
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.pdb
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.Views.dll
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\bin\Debug\netcoreapp2.1\Assignment1.Views.pdb
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csprojAssemblyReference.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfoInputs.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.AssemblyInfo.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CoreCompileInputs.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorAssemblyInfo.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorAssemblyInfo.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.TagHelpers.input.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.TagHelpers.output.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorCoreGenerate.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddRecipe.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\ReviewRecipe.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Home\ViewRecipe.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RecipeSummary.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_BasicLayout.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorTargetAssemblyInfo.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.RazorTargetAssemblyInfo.cs
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.Views.pdb
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.dll
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.pdb
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.genruntimeconfig.cache
+D:\Centennial\semester 3\Web Application Development (SEC. 002) - comp229\Assignments\Assignment2\Assignment1\obj\Debug\netcoreapp2.1\Assignment1.csproj.CopyComplete

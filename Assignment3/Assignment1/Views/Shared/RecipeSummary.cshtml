@@ -1,0 +1,18 @@
+﻿@model Recipe
+
+@{
+    ViewBag.Title = "Recipe Summary";
+}
+
+<div class="card card-outline-primary m-1 p-1">
+    <div class="bg-faded p-1">
+        <h4>
+            @Model.RecipeName <br />
+            @Model.Description <br />
+            @Model.Ingredients <br />
+            @Model.Chef <br />
+            @Model.PreparationTime <br />
+            @Model.Review <br />
+        </h4>
+    </div>
+</div>

@@ -1,0 +1,29 @@
+﻿@model Recipe
+
+@{
+    ViewBag.Title = "View Recipe";
+}
+
+<h1>Recipe preview:</h1> <br/>
+<div class="card card-outline-primary m-1 p-1">
+<div class="bg-faded p-1">
+<div>
+    <h3>Name:</h3><br/>@Model.RecipeName
+</div>
+<div>
+    <h3>Description:</h3><br />@Model.Description
+</div>
+<div>
+    <h3>Ingredients:</h3><br />@Model.Ingredients
+</div>
+<div>
+    <h3>Chef:</h3><br />@Model.Chef
+</div>
+<div>
+    <h3>Preparation time:</h3><br />@Model.PreparationTime
+</div>
+<div>
+    <h3>Reviews:</h3><br />@Model.Review
+</div>
+</div>
+</div>

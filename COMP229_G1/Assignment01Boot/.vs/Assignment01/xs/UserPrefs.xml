@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{CBFEB3F1-D21F-4E30-937F-EAAE9B836AC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment01/Views/Home/List.cshtml">
+    <Files>
+      <File FileName="Assignment01/Startup.cs" Line="42" Column="27" />
+      <File FileName="Assignment01/Controllers/HomeController.cs" Line="59" Column="29" />
+      <File FileName="Assignment01/Models/Recipe.cs" Line="26" Column="1" />
+      <File FileName="Assignment01/Models/Repository.cs" Line="1" Column="1" />
+      <File FileName="Assignment01/Models/IRecipeRepository.cs" />
+      <File FileName="Assignment01/Views/Shared/_Layout.cshtml" Line="8" Column="21" NotebookId="1" />
+      <File FileName="Assignment01/Views/Home/Home.cshtml" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assignment01/Views/Home/RecipeList.cshtml" Line="47" Column="29" NotebookId="1" />
+      <File FileName="Assignment01/Views/Home/AddRecipe.cshtml" Line="42" Column="1" NotebookId="1" />
+      <File FileName="Assignment01/Views/Shared/FormInputs.cshtml" Line="13" Column="25" NotebookId="1" />
+      <File FileName="Assignment01/Views/Home/ViewRecipe.cshtml" NotebookId="1" />
+      <File FileName="Assignment01/Views/Home/ReviewRecipe.cshtml" NotebookId="1" />
+      <File FileName="Assignment01/Views/Home/List.cshtml" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment01" expanded="True">
+            <Node name="Assignment01" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="List.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assignment01 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

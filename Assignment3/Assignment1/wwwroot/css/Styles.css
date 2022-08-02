@@ -1,0 +1,19 @@
+﻿html {
+    background-color: #B2FFA9;
+}
+
+body {
+    background-color: #C8FFC2;
+}
+
+li {
+    display: inline;
+    float: left;
+    text-decoration: none;
+}
+
+li:hover {
+    display: block;
+    padding: 8px;
+    background-color: forestgreen;
+}

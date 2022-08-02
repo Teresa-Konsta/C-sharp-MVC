@@ -1,0 +1,41 @@
+﻿@model Recipe
+
+@{
+    ViewBag.Title = "Edit Recipe";
+    Layout = "_AdminLayout";
+}
+
+    <form asp-action="Edit" method="post">
+        <input type="hidden" asp-for="RecipeID" />
+
+        <div class="form-group">
+            <label asp-for="RecipeName">Recipe Name: </label>
+            <div><span class="text-danger" asp-validation-for="RecipeName"></span></div>
+            <input class="form-control" asp-for="RecipeName" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Description">Description: </label>
+            <div><span class="text-danger" asp-validation-for="Description"></span></div>
+            <input class="form-control" asp-for="Description" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Ingredients">Ingredients: </label>
+            <div><span class="text-danger" asp-validation-for="Ingredients"></span></div>
+            <input class="form-control" asp-for="Ingredients" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Chef">Chef: </label>
+            <div><span class="text-danger" asp-validation-for="Chef"></span></div>
+            <input class="form-control" asp-for="Chef" />
+        </div>
+        <div class="form-group">
+            <label asp-for="PreparationTime">Preparation Time: </label>
+            <div><span class="text-danger" asp-validation-for="PreparationTime"></span></div>
+            <input class="form-control" asp-for="PreparationTime" />
+        </div>
+
+        <div class="text-center">
+            <button class="btn btn-primary" type="submit">Save</button>
+            <a class="btn btn-secondary" asp-action="Index">Cancel</a>
+        </div>
+    </form>

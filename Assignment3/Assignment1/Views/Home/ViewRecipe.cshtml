@@ -1,0 +1,12 @@
+﻿@model List<Recipe>
+
+@{
+    ViewBag.Title = "View Recipe";
+}
+
+<h1>Recipe preview:</h1> <br/>
+
+@foreach (var r in Model)
+    {
+        @await Html.PartialAsync("RecipeSummary", r)
+    }

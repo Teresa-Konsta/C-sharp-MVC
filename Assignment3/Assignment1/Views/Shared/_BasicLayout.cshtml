@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/css/Styles.css" />
+    <link rel="stylesheet" 
+          asp-href-include="/lib/bootstrap/**/*.min.css"
+          asp-href-exclude="**/*-reboot*, **/*-grid*" />
+    @*<script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/jquery-validate/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>*@
+</head>
+<body>
+    <div>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <ul class="navbar-nav mr-auto" id="topnav">
+                <li class="nav-item active"><a class="nav-link" asp-action="Index">Home</a></li>
+                <li class="nav-item active"><a class="nav-link" asp-action="RecipeList">Recipe list</a></li>
+                <li class="nav-item active"><a class="nav-link" asp-action="AddRecipe">Add recipe</a></li>
+                @*<li class="nav-item active"><a class="nav-link" asp-action="~/Admin/Index">Admin</a></li>*@
+            </ul>
+        </nav>
+    </div>
+    <div class="panel-body">
+        @RenderBody()
+    </div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+﻿@model RecipeListViewModel
+
+@{
+    ViewBag.Title = "Recipe list";
+}
+
+<h1>The list of receipes:</h1>
+
+<table class="table table-sm table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Recipe Name</th>
+            <th>Instructions</th>
+            <th>Review</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Recipe r in Model.Recipes)
+        {
+        <tr>
+            <td>@r.RecipeName</td>
+            <td><a asp-action="ViewRecipe" asp-route-id="@r.RecipeID">click here</a></td>
+            <td><a asp-action="ReviewRecipe" asp-route-id="@r.RecipeID">add review</a></td>
+        </tr>
+        }
+    </tbody>
+</table>
+@*@foreach (Recipe r in Model)
+{
+    @await Html.PartialAsync("RecipeSummary", r)
+}*@
+
+<div page-model="@Model.PageInfo" 
+     page-action="RecipeList"
+     page-class-enabled="true"
+     page-class="btn"
+     page-class-normal="btn-secondary"
+     page-class-selected="btn-primary"></div>
